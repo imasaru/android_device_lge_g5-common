@@ -40,6 +40,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.0-service
 
+# FlipFlap
+PRODUCT_PACKAGES += \
+    FlipFlap
+
 # IR
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-service.lge
